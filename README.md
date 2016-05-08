@@ -1,0 +1,2 @@
+# EclipseGit
+UseEclipseProject
